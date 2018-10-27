@@ -1,0 +1,27 @@
+
+body {
+    background-color: rebeccapurple;
+}
+h3{
+    color: white;
+    font-family: ;
+}
+img {
+    
+    height: 70%;
+    width: 70%;
+}
+p {
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: bolder;
+    font-size: 100%;
+    font-family: bahaus;
+
+}
+.hobbies {
+    color: whitesmoke;
+}
+#aspirations {
+    color: whitesmoke;
+}
